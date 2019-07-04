@@ -1,0 +1,22 @@
+{
+  "name": "morphis",
+  "version": "1.0.0",
+  "description": "client-side morphis",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatergo/morphis.git"
+  },
+  "author": "vatergo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vatergo/morphis/issues"
+  },
+  "homepage": "https://vatergo.github.io/morphis"
+}
