@@ -6,7 +6,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "cross-env PORT=10888 https=true react-scripts start",
     "build": "react-scripts build"
   },
   "repository": {
@@ -18,5 +18,28 @@
   "bugs": {
     "url": "https://github.com/vatergo/morphis/issues"
   },
-  "homepage": "https://vatergo.github.io/morphis"
+  "homepage": "https://vatergo.github.io/morphis",
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "react-hot-loader": "^4.9.0",
+    "react-scripts": "^2.1.8"
+  },
+  "dependencies": {
+    "@vkontakte/icons": "^1.4.6",
+    "@vkontakte/vkui": "^2.23.0",
+    "@vkontakte/vkui-connect": "^1.1.3",
+    "babel-eslint": "^9.0.0",
+    "chalk": "^2.4.2",
+    "core-js": "^2.6.9",
+    "gh-pages": "^2.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
