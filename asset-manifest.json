@@ -1,13 +1,15 @@
 {
-  "main.js": "/morphis/static/js/main.d6beec40.chunk.js",
-  "main.js.map": "/morphis/static/js/main.d6beec40.chunk.js.map",
+  "main.css": "/morphis/static/css/main.5dbd3867.chunk.css",
+  "main.js": "/morphis/static/js/main.f36ed146.chunk.js",
+  "main.js.map": "/morphis/static/js/main.f36ed146.chunk.js.map",
   "runtime~main.js": "/morphis/static/js/runtime~main.8882f460.js",
   "runtime~main.js.map": "/morphis/static/js/runtime~main.8882f460.js.map",
   "static/css/2.8c645362.chunk.css": "/morphis/static/css/2.8c645362.chunk.css",
   "static/js/2.351354d8.chunk.js": "/morphis/static/js/2.351354d8.chunk.js",
   "static/js/2.351354d8.chunk.js.map": "/morphis/static/js/2.351354d8.chunk.js.map",
   "index.html": "/morphis/index.html",
-  "precache-manifest.40086bd21d8a06c40c13aeab39d2fb29.js": "/morphis/precache-manifest.40086bd21d8a06c40c13aeab39d2fb29.js",
+  "precache-manifest.e105a104a81fe3ecef8b6d201cc2d35b.js": "/morphis/precache-manifest.e105a104a81fe3ecef8b6d201cc2d35b.js",
   "service-worker.js": "/morphis/service-worker.js",
-  "static/css/2.8c645362.chunk.css.map": "/morphis/static/css/2.8c645362.chunk.css.map"
+  "static/css/2.8c645362.chunk.css.map": "/morphis/static/css/2.8c645362.chunk.css.map",
+  "static/css/main.5dbd3867.chunk.css.map": "/morphis/static/css/main.5dbd3867.chunk.css.map"
 }
